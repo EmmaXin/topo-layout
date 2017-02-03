@@ -1,0 +1,19 @@
+{
+  "name": "topo-layout",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "node_modules/.bin/grunt server",
+    "test": "node_modules/.bin/jasmine"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^2.5.3",
+    "require": "^2.4.20",
+    "grunt": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-express": "^1.4.1"
+  }
+}
